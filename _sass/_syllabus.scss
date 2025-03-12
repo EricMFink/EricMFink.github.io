@@ -34,6 +34,18 @@
 .syllabus h3 {
     font-size: $largest-size;
 	font-weight: $normal-weight;
+	font-style: normal;
+	margin: 2rem 0 .5rem 0;
+}
+.syllabus h4 {
+    font-size: $large-size;
+	font-weight: $normal-weight;
+	font-style: italic;
+	margin: 2rem 0 .5rem 0;
+}
+.syllabus h5 {
+    font-size: $base-size;
+	font-style: italic;
 	margin: 2rem 0 .5rem 0;
 }
 .syllabus h6 {
