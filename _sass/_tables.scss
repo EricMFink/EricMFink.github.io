@@ -39,7 +39,7 @@ td {
 }
 tr td:first-child {
 	font-family: $body-font;
-	font-weight: 400;
+	font-weight: $normal-weight;
 }
 
 noheader th {
