@@ -59,6 +59,7 @@ port: 4000
 markdown: Pandoc
 pandoc:
   extensions:
+    - section-divs
     - from: 'markdown+smart+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
 
