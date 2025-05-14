@@ -59,7 +59,7 @@ port: 4000
 markdown: Pandoc
 pandoc:
   extensions:
-    - from: 'markdown+tex_math_single_backslash'
+    - from: 'markdown+smart+tex_math_single_backslash'
     - filter: 'pandoc-sidenote'
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
