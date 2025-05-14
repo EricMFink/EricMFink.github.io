@@ -74,9 +74,9 @@
 	font-size: $body-size;
 	font-weight: $bold-weight;
 }
-.syllabus th,td{
-	font-weight: $bold-weight;
-	}
 .syllabus td {
 	font-size: $small-size;
 }
+.syllabus p{
+	font-weight: inherit;
+	}
