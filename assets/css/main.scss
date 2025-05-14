@@ -1,24 +1,24 @@
 ---
 ---
 
-@import
-  "variables",
-  "base",
-  "tufte",
-  "casebook",
-  "syntax-highlighting",
-  "code",
-  "tables",
-  "buttons",
-  "page",
-  "header",
-  "footer",
-  "profile",
-  "gallery",
-  "figures",
-  "vita",
-  "bookmarks",
-  "syllabus",
-  "casebook-printing",
-  "media-queries",
-;
+@charset "utf-8";
+
+@use "variables";
+@use "base";
+@use "tufte";
+@use "casebook";
+@use "syntax-highlighting";
+@use "code";
+@use "tables";
+@use "buttons";
+@use "page";
+@use "header";
+@use "footer";
+@use "profile";
+@use "gallery";
+@use "figures";
+@use "vita";
+@use "bookmarks";
+@use "syllabus";
+@use "casebook-printing";
+@use "media-queries";
