@@ -46,6 +46,7 @@
 .syllabus h5 {
     font-size: $smaller-size;
 	font-style: italic;
+	font-weight: $normal-weight;
 	margin: 1rem 0 .5rem 0;
 }
 .syllabus h6 {
@@ -75,4 +76,9 @@
 }
 .syllabus td {
 	font-size: $small-size;
+	font-weight: $normal-weight;
+}
+
+.unit_title {
+	font-weight: $bold-weight;
 }
