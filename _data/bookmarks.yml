@@ -9,8 +9,8 @@ left:
   url: 'https://www.google.com/maps'
 - title: Voice
   url: 'https://voice.google.com'
-- title: Pocket
-  url: 'https://app.getpocket.com/'
+- title: Raindrop
+  url: 'https://app.raindrop.io/my/0'
 - title: Amazon
   url: 'https://www.amazon.com/'
 - title: Tailscale
