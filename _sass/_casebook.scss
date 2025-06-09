@@ -386,3 +386,17 @@ li.toc-li-H4 {
 	font-style: italic;
 	text-align: left; 
 	}
+
+.chapter-epigraph { 
+    font-family: $body-font;
+	text-align: left;
+	margin-top: 3rem;
+	}
+.chapter-epigraph-cite {
+	color: $dull-red;
+	font-size: $h4;
+	font-weight: $normal-weight;
+	margin: 2rem 0 0rem 0;
+	border-bottom: 1px solid $dull-red;
+	text-align: left;
+	}
