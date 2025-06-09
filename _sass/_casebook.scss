@@ -346,17 +346,35 @@ li.toc-li-H4 {
 }
 .epigraph { 
     font-family: $body-font;
-	font-size: $smaller-size;
 	text-align: left;
+	}
+.epigraph-narrow { 
+    font-family: $sans-font;
+	text-align: left;
+	width: 60%;
+	border-left: solid $theme-color;
 	}
 .epigraph-quote { 
 	font-style: italic; 
 	text-align: left;
 	line-height: $taller-line-height;
   	}
+.epigraph-quote-small { 
+	font-size: $smallest-size;
+	font-weight: $light-weight;
+	font-style: italic; 
+	text-align: left;
+	line-height: $line-height;
+  	}
 .epigraph-cite {
 	text-align: right;
 	margin: 2rem 0 0 0;
+	}
+.epigraph-cite-small {
+	font-size: $smallest-size;
+	font-weight: $light-weight;
+	text-align: left;
+	margin: 1rem 0 0 0;
 	}
 .epigraph-author {  
 	font-style: normal;
