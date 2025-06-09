@@ -370,15 +370,16 @@ li.toc-li-H4 {
 	text-align: right;
 	margin: 2rem 0 0 0;
 	}
-.epigraph-cite-small {
+.epigraph-author {  
 	font-size: $smallest-size;
 	font-weight: $light-weight;
+	font-style: normal;
 	text-align: left;
 	margin: 1rem 0 0 0;
 	}
-.epigraph-author {  
-	font-style: normal;
-	}
 .epigraph-source { 
-	font-style: italic; 
+	font-size: $smallest-size;
+	font-weight: $light-weight;
+	font-style: italic;
+	text-align: left; 
 	}
