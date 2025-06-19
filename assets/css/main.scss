@@ -2,7 +2,7 @@
 ---
 @charset 'utf-8';
 @forward 'variables';
-@use 'variables';
+@use 'variables' as *;
 @use 'base';
 @use 'tufte';
 @use 'casebook';
