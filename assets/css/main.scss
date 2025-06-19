@@ -1,22 +1,23 @@
 ---
 ---
-
-@import "variables";
-@import "base";
-@import "tufte";
-@import "casebook";
-@import "syntax-highlighting";
-@import "code";
-@import "tables";
-@import "buttons";
-@import "page";
-@import "header";
-@import "footer";
-@import "profile";
-@import "gallery";
-@import "figures";
-@import "vita";
-@import "bookmarks";
-@import "syllabus";
-@import "casebook-printing";
-@import "media-queries";
+@charset 'utf-8';
+@forward 'variables';
+@import 'variables';
+@import 'base';
+@import 'tufte';
+@import 'casebook';
+@import 'syntax-highlighting';
+@import 'code';
+@import 'tables';
+@import 'buttons';
+@import 'page';
+@import 'header';
+@import 'footer';
+@import 'profile';
+@import 'gallery';
+@import 'figures';
+@import 'vita';
+@import 'bookmarks';
+@import 'syllabus';
+@import 'casebook-printing';
+@import 'media-queries';
