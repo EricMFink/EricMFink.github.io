@@ -66,9 +66,18 @@
     }
 }
 
+.syllabus p{
+	font-weight: inherit;
+	}
+
 .syllabus table {
 	margin: 2rem 0 1rem 0;
 	max-width: 100%;
+}
+.syllabus table p {
+	font-size: $small-size;
+	font-weight: inherit;
+	margin: 0 0 0 0; 
 }
 .syllabus th {
 	font-size: $body-size;
@@ -77,6 +86,7 @@
 .syllabus td {
 	font-size: $small-size;
 }
-.syllabus p{
+.syllabus td p {
+	font-size: $small-size;
 	font-weight: inherit;
-	}
+}
