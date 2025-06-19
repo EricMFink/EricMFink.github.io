@@ -1,24 +1,25 @@
 ---
 ---
 
-@charset "utf-8";
+@charset 'utf-8';
 
-@use "variables" as *;
-@use "base";
-@use "tufte";
-@use "casebook";
-@use "syntax-highlighting";
-@use "code";
-@use "tables";
-@use "buttons";
-@use "page";
-@use "header";
-@use "footer";
-@use "profile";
-@use "gallery";
-@use "figures";
-@use "vita";
-@use "bookmarks";
-@use "syllabus";
-@use "casebook-printing";
-@use "media-queries";
+@forward 'variables';
+@use 'variables' as *;
+@use 'base';
+@use 'tufte';
+@use 'casebook';
+@use 'syntax-highlighting';
+@use 'code';
+@use 'tables';
+@use 'buttons';
+@use 'page';
+@use 'header';
+@use 'footer';
+@use 'profile';
+@use 'gallery';
+@use 'figures';
+@use 'vita';
+@use 'bookmarks';
+@use 'syllabus';
+@use 'casebook-printing';
+@use 'media-queries';
