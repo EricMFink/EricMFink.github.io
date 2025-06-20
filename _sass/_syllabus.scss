@@ -10,11 +10,15 @@
 }
 
 .course-info p {
-    font-size: $smaller-size;
 	font-family: $sans-font;
+    font-size: $smaller-size;
     font-weight: $normal-weight;
     font-style: normal;
     margin: .2rem 0 0rem 0;
+}
+
+.course-info-link {
+	font-family: $mono-font;
 }
 
 .syllabus h1 {
