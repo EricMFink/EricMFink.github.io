@@ -202,6 +202,13 @@ p.case-h4 {
 .legal-code blockquote p {
 	font-size: $body-size;
 }
+.comment .legal-code blockquote {
+	font-size: $body-size;
+	padding: 0 0 0 1.5rem;
+}
+.comment .legal-code blockquote p {
+	font-size: .8rem;
+}
 /* FIGURES & IMAGES */
 .casebook figure {
     padding: 0;
