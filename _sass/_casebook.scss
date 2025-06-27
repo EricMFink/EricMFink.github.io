@@ -203,12 +203,14 @@ p.case-h4 {
 	font-size: $body-size;
 }
 .comment .legal-code blockquote {
-	font-size: $body-size;
-	padding: 0 0 0 1.5rem;
+	font-size: .8rem;
+	font-style: normal;
+	padding: 0 0 0 0.5rem;
 	border: none;
 }
 .comment .legal-code blockquote p {
 	font-size: .8rem;
+	font-style: inherit;
 }
 /* FIGURES & IMAGES */
 .casebook figure {
