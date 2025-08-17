@@ -26,7 +26,6 @@ body {
     font-family: $body-font;
     background-color: $background-color;
     color: $text-color;
-	font-weight: $light-weight;
 	line-height: $line-height;
 	width: 85%;
     margin: 0 0 0 12.5%;
@@ -142,6 +141,7 @@ blockquote {
 
 blockquote p {
 	font-size: $small-size;
+	font-weight: $light-weight;
 	font-style: italic;
 }
 

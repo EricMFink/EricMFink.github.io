@@ -10,18 +10,18 @@
 }
 .site-title {
 	font-family: $heading-font;
-	font-weight: $bold-weight;
-    font-size: $body-size;
     color: $theme-color;
+    font-size: $body-size;
+	font-weight: $bold-weight;
     line-height: $header-height;
 	margin-left: 12.5%;
     margin-bottom: 0;
 }
 .site-title-left {
 	font-family: $heading-font;
-	font-weight: $bold-weight;
-    font-size: $body-size;
     color: $theme-color;
+    font-size: $body-size;
+	font-weight: $bold-weight;
     line-height: $header-height;
 	margin-left: 5%;
     margin-bottom: 0;
@@ -29,6 +29,7 @@
 .site-nav {
 	font-family: $heading-font;
 	font-size: $body-size;
+	font-weight: $normal-weight;
     float: right;
     line-height: $header-height;
 	margin-right: 12.5%;
@@ -122,58 +123,4 @@
     h2{
         font-size: $h2;
     }
-}
-
-/* Header for Casebook Pages */
-.casebook-header {
-    border-bottom: 0.5px solid $light-grey;
-    background-color: $off-white;
-    opacity: 1;
-    position:fixed;
-    left:calc((100vw - 100%)/2);
-    top:0px;
-	width: 100%;
-    z-index: 50;
-}
-/* Dropdown container */
-.dropdown {
-    float: right;
-    overflow: hidden;
-}
-/* Dropdown button */
-.dropdown .dropbtn {
-    background: transparent;
-    font-family: inherit; /* Important for vertical align on mobile phones */
-	font-size: $body-size;
-    color: $theme-color;
-    margin: 0 0 0 30px; /* Important for vertical align on mobile phones */
-    border: none;
-    outline: none;
-}
-/* Dropdown Arrow Icon */
-.fa-caret-down {
-  margin-left: 5px; }
-/* Dropdown content (hidden by default) */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    min-width: 160px;
-    z-index: 1;
-}
-/* Links inside the dropdown */
-.dropdown-content a {
-    float: none;
-    color: $text-color;
-    padding: 3px 10px 3px 10px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-/* Grey background color to dropdown links on hover */
-.dropdown-content a:hover {
-    background-color: #ddd;
-}
-/* Show dropdown menu on hover */
-.dropdown:hover .dropdown-content {
-    display: block;
 }
