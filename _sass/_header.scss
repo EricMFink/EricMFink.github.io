@@ -45,9 +45,6 @@
             margin-left: 30px;
         }
     }
-	.site-nav a {
-		color: $theme-color;
-	}
 
     // hamburger menu on small devices
 	@mixin media-query($device) {
@@ -102,6 +99,11 @@
         }
     }
 }
+
+.site-nav a {
+	color: $theme-color;
+}
+
 .header-bar{
     border-bottom: 1px solid $light-grey;
     font-size: $h3;
