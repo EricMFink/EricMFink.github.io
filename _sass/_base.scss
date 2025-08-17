@@ -26,6 +26,8 @@ body {
     font-family: $body-font;
     background-color: $background-color;
     color: $text-color;
+	font-weight: $light-weight;
+	line-height: $line-height;
 	width: 85%;
     margin: 0 0 0 12.5%;
     counter-reset: chapter sidenote-counter; 
@@ -45,10 +47,9 @@ body.centered {
 }
 
 /* Headings */
-
 h1 { 
-	color: $dull-red;
 	font-family: $sans-font;
+	color: $dull-red;
 	font-size: $h1;
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
@@ -56,73 +57,72 @@ h1 {
 	font-weight: $medium-weight;
 	line-height: $line-height;
 	}
-h2, h3, h4 {
-	font-family: $sans-font;
-	line-height: $line-height;
-	padding: 0 0 0 0;
-	}
 h2 {
+	font-family: $sans-font;
+	color: $dull-red;
 	font-size: $h2;
 	margin: 3rem 0 0 0;
+	padding: 0 0 0 0;
 	font-weight: $medium-weight;
     }
 h2 + h3 {
 	margin-top: 1rem;
 	}
 h3 { 
+	font-family: $body-font;
 	font-size: $h3;
-	margin: 1.5rem 0 0 0;
 	font-style: italic;
-	font-weight: $medium-weight;
+	font-weight: $normal-weight;
+	margin: 1.5rem 0 0 0;
+	padding: 0 0 0 0;
 	}
 h4 {
+	font-family: $body-font;
 	font-size: $h4;
-	margin: 1.5rem 0 0 0;
 	font-style: normal;
-	font-weight: $medium-weight;
+	font-weight: $normal-weight;
+	margin: 1.5rem 0 0 0;
+	padding: 0 0 0 0;
 }
 h5 {
 	font-family: $body-font;
 	font-size: $h5;
-	margin: 1.5rem 0 0 0;
 	font-style: normal;
-	font-weight: $medium-weight;
-	line-height: $line-height;
+	font-weight: $normal-weight;
+	margin: 1.5rem 0 0 0;
 	padding: 0 0 0 0;
 	}
 h6 {
 	font-family: $body-font;
 	font-size: $h6;
-	margin: .5rem 0 0 0;
 	font-style: italic;
-	font-weight: $medium-weight;
-	line-height: $line-height;
+	font-weight: $normal-weight;
+	margin: .5rem 0 0 0;
 	padding: 0 0 0 0;
 	}
 
 /* Body Text */
 p {
 	font-size: $body-size;
-	font-weight: $normal-weight;
+	font-weight: $light-weight;
 	line-height: $line-height;
 	margin: 1rem 0 1rem 0;
 	}
 
 /* Links */
 a {
-	color: $contrast-color;
+	color: $link-color;
 	text-decoration: none;
 }
-
 p > a, cite > a, span > a {
-	color: $contrast-color;
+	color: $link-color;
 	text-decoration: none;
 	}
 
 /* Lists */
 ol, ul { 
 	font-size: $small-size;
-	font-weight: $normal-weight;
+	font-weight: $light-weight;
 	margin: .5rem 0 .5rem 2rem; 
 	padding: 0 0 0 0;
 	}
@@ -145,14 +145,13 @@ blockquote p {
 	font-style: italic;
 }
 
-
 /* Styled text */
 .sans-green {				/* emulates marginnote */
 	font-family: $sans-font;
 	color: $dark-green;
 	}
-.dullred {					/* emulates link */
-	color: $dull-red;
+.link-color {					/* emulates link */
+	color: $link-color;
 	}
 .contrast { 
 	color: $contrast-color;
@@ -172,15 +171,12 @@ blockquote p {
 .smaller {
 	font-size: $smaller-size;
 	}
-.contrast {
-	color: $contrast-color;
-	}
-.mono-face {
+.mono-font {
 	font-family: $mono-font;
 	font-weight: 400;
 	font-style: normal;
 }
-.japanese {
+.japanese-font {
 	font-family: $japanese-font;
 	font-weight: 400;
 	font-style: normal;

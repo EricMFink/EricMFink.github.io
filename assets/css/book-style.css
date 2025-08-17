@@ -231,10 +231,10 @@ padding: 0 0 0 0;
 font-family: adelle-sans, sans-serif;
 color: #006400;
 }
-.dullred { /* emulates link */
+.link-color { /* emulates link */
 color: #b03a2e;
 }
-.japanese {
+.japanese-font {
 font-family: "Noto Sans JP", sans-serif;
 font-weight: 400;
 font-style: normal;
