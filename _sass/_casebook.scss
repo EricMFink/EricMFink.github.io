@@ -12,7 +12,7 @@
 
 /* Preface */
 .preface h1 {
-	color: $dull-red;
+	color: $maroon;
 	font-family: $sans-font, sans-serif;
 	font-size: $h2;
 	font-weight: $normal-weight;
@@ -22,7 +22,7 @@
 	counter-reset: sidenote-counter;
 }
 .casebook h1 {
-	color: $dull-red;
+	color: $maroon;
 	font-family: $sans-font, sans-serif;
 	font-weight: $normal-weight;
 	counter-increment: chapter;  /* Add 1 to chapter */
@@ -35,7 +35,7 @@
 */
 /* Section */
 .casebook h2 {
-	color: $dull-red;
+	color: $maroon;
 	font-weight: $normal-weight;
 	font-style: normal;
 	margin: 5rem 0 0 0;
@@ -47,7 +47,7 @@
 }
 /* Subsection */
 .casebook h3 {
-	color: $dull-red;
+	color: $maroon;
 	font-weight: $normal-weight;
 	font-style: normal;
 	margin: 3rem 0 0 0;
@@ -59,10 +59,10 @@
 }
 /* Title and cite of incorporated materials */
 .casebook h4 {
-	color: $dull-red;
+	color: $maroon;
 	font-weight: $normal-weight;
 	margin: 2rem 0 0rem 0;
-	border-bottom: 1px solid $dull-red;
+	border-bottom: 1px solid $maroon;
 }
 
 /* Section headings within incorporated materials */
@@ -169,10 +169,10 @@ p.case-h4 {
 
 /* Title and cite of incorporated materials */
 .legal-code h4 {
-	color: $dull-red;
+	color: $maroon;
 	font-weight: $normal-weight;
 	margin: 2rem 0 0rem 0;
-	border-bottom: 1px solid $dull-red;
+	border-bottom: 1px solid $maroon;
 }
 .legal-code h5 {
 	font-style: normal;
@@ -403,10 +403,10 @@ li.toc-li-H4 {
 	margin-top: 3rem;
 	}
 .chapter-epigraph-cite {
-	color: $dull-red;
+	color: $maroon;
 	font-size: $h4;
 	font-weight: $normal-weight;
 	margin: 2rem 0 0rem 0;
-	border-bottom: 1px solid $dull-red;
+	border-bottom: 1px solid $maroon;
 	text-align: left;
 	}
