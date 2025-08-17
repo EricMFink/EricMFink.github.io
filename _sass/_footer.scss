@@ -41,8 +41,5 @@ footer {
 .home-footer-block p {
 	font-size: $tiny-size;
     position: relative;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 0;
-	margin-bottom: 0;
+	margin: 0 auto 0 auto;
 }
