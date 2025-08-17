@@ -7,7 +7,7 @@ $heading-font:			$sans-font !default;
 $serif-heading-font:	$serif-font !default;
 $sidenotes-font:		$serif-font !default;
 $marginnotes-font:		$sans-font !default;
-$vita-font:				$serif-font;
+$vita-font:				$serif-font !default;
 
 // Font Sizes 
 $base-size:				16px !default;
@@ -30,12 +30,12 @@ $h3:					1.7rem !default;
 $h4:					1.4rem !default;
 $h5:					1.2rem !default;
 $h6:					1.1rem !default;
-$icons-large:			3rem;
-$icons-medium:			2rem;
-$icons-small:			1.5rem;
-$contacticon-large:		3rem;
-$contacticon-medium:	2rem;
-$contacticon-small:		1.5rem;
+$icons-large:			3rem !default;
+$icons-medium:			2rem !default;
+$icons-small:			1.5rem !default;
+$contacticon-large:		3rem !default;
+$contacticon-medium:	2rem !default;
+$contacticon-small:		1.5rem !default;
 
 // font weights
 $black-weight:			900 !default;
@@ -122,7 +122,7 @@ $text-color:			$off-black !default;
 $contrast-color:		$dull-red !default;
 $heading-color:			$dull-red !default;
 $link-color:			$hopkins-blue !default;
-$link-hover-color:		$dull-orange !default;
+$link-hover-color:		$tar-heel-blue !default;
 $text-box-color:		$ivory !default;
 $code-color:			$link-color !default;
 $code-box-color:		$aliceblue !default;
