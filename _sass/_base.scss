@@ -146,6 +146,10 @@ blockquote p {
 }
 
 /* Styled text */
+.strong {
+	font-weight: $book-weight;
+}
+
 .sans-green {				/* emulates marginnote */
 	font-family: $sans-font;
 	color: $dark-green;
