@@ -48,21 +48,21 @@ body.centered {
 /* Headings */
 h1 { 
 	font-family: $sans-font;
-	color: $maroon;
+	color: $theme-color;
 	font-size: $h1;
+	font-style: normal;
+	font-weight: $normal-weight;
+	line-height: $line-height;
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
-	font-style: normal;
-	font-weight: $medium-weight;
-	line-height: $line-height;
 	}
 h2 {
 	font-family: $sans-font;
-	color: $maroon;
+	color: $theme-color;
 	font-size: $h2;
+	font-weight: $normal-weight;
 	margin: 3rem 0 0 0;
 	padding: 0 0 0 0;
-	font-weight: $medium-weight;
     }
 h2 + h3 {
 	margin-top: 1rem;
@@ -71,7 +71,7 @@ h3 {
 	font-family: $body-font;
 	font-size: $h3;
 	font-style: italic;
-	font-weight: $normal-weight;
+	font-weight: $book-weight;
 	margin: 1.5rem 0 0 0;
 	padding: 0 0 0 0;
 	}
@@ -79,7 +79,7 @@ h4 {
 	font-family: $body-font;
 	font-size: $h4;
 	font-style: normal;
-	font-weight: $normal-weight;
+	font-weight: $book-weight;
 	margin: 1.5rem 0 0 0;
 	padding: 0 0 0 0;
 }
@@ -87,7 +87,7 @@ h5 {
 	font-family: $body-font;
 	font-size: $h5;
 	font-style: normal;
-	font-weight: $normal-weight;
+	font-weight: $book-weight;
 	margin: 1.5rem 0 0 0;
 	padding: 0 0 0 0;
 	}

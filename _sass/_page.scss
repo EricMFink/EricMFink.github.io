@@ -18,7 +18,7 @@
     font-family: $heading-font;
     font-size: $title-size;
     line-height: $line-height;
-    font-weight: $medium-weight;
+    font-weight: $normal-weight;
     font-style: normal;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -101,7 +101,7 @@ section {
 }
 .gevalt h1 {
 	color: $theme-color;
-	font-weight: $medium-weight;
+	font-weight: $normal-weight;
 }
 .gevalt h2 {
 	height: 100%;

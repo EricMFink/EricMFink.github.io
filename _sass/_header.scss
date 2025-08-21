@@ -1,6 +1,6 @@
 .site-header {
     border-bottom: 1px solid $light-grey;
-    background-color: $off-white;
+    background-color: $background-color;
     opacity: 1;
     position:fixed;
     left:calc((100vw - 100%)/2);
@@ -12,7 +12,7 @@
 	font-family: $heading-font;
     color: $theme-color;
     font-size: $body-size;
-	font-weight: $bold-weight;
+	font-weight: $medium-weight;
     line-height: $header-height;
 	margin-left: 12.5%;
     margin-bottom: 0;
@@ -21,7 +21,7 @@
 	font-family: $heading-font;
     color: $theme-color;
     font-size: $body-size;
-	font-weight: $bold-weight;
+	font-weight: $medium-weight;
     line-height: $header-height;
 	margin-left: 5%;
     margin-bottom: 0;
