@@ -1,6 +1,6 @@
 ---
 layout: vita
-updated: '13 January 2025'
+updated: '10 September 2025'
 title: Vita
 permalink: /vita/
 pdf: vita.pdf
@@ -31,7 +31,7 @@ output:
 - Tenure awarded 2012
 - Jennings Professor and Emerging Scholar, 2010-2012
 
-#### Teaching 2024-25
+#### Teaching 2025-26
 
 - [Civil Procedure](https://www.emfink.net/CivPro)
 - [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility)
@@ -262,6 +262,8 @@ Contributing Editor, _The Developing Labor Law_ (P. Hardin, ed., 4th ed. 2001)
 ## The Johns Hopkins University, Baltimore, MD
 
 ### B.A., Sociology, 1984  
+
+#####   
 
 # Professional Associations
 
