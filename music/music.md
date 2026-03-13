@@ -28,15 +28,15 @@ title: Music
 {% for song in site.data.songs.PromiseWithACatch %}<li><a href="{{ site.baseurl}}/music/{{ song.file }}">{{ song.title }}</a></li>{% endfor %}
 </ul>
 
-#### [Revolutionary Ballads, Labor Hymns, & Sectarian Satire]({{ site.baseurl}}/music/RevolutionaryBallads)
+#### [Revolutionary Anthems, Labor Hymns, & Sectarian Satire]({{ site.baseurl}}/music/RevolutionaryAnthems)
 
-<a href="{{ site.baseurl}}/music/RevolutionaryBallads"><img src="{{ site.baseurl}}/assets/music/RevolutionaryBallads/cover.png" alt="" width="320"/></a>
+<a href="{{ site.baseurl}}/music/RevolutionaryAnthems"><img src="{{ site.baseurl}}/assets/music/RevolutionaryAnthems/cover.png" alt="" width="320"/></a>
 
-<a href='{{ site.baseurl }}/assets//music/RevolutionaryBallads.zip' download="">
+<a href='{{ site.baseurl }}/assets//music/RevolutionaryAnthems.zip' download="">
 <button class="large"><i class="fa fa-download"></i> </button>
 </a>
 
 <ul>
-{% for song in site.data.songs.RevolutionaryBallads %}<li><a href="{{ site.baseurl}}/music/{{ song.file }}">{{ song.title }}</a></li>{% endfor %}
+{% for song in site.data.songs.RevolutionaryAnthems %}<li><a href="{{ site.baseurl}}/music/{{ song.file }}">{{ song.title }}</a></li>{% endfor %}
 </ul>
 

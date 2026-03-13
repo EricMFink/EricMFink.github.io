@@ -147,21 +147,21 @@ PromiseWithACatch:
     playlist: PromiseWithACatch
     index: '18'
 
-RevolutionaryBallads:
+RevolutionaryAnthems:
 - title: Bill Bailey the Ultimate Sectarian
-  album: Revolutionary Ballads, Labor Hymns, & Sectarian Satire
+  album: Revolutionary Anthems, Labor Hymns, & Sectarian Satire
   file: BillBaileytheUltimateSectarian
-  playlist: RevolutionaryBallads
+  playlist: RevolutionaryAnthems
   index: '0'
 - title: Your Flag Decal Won't Get You Into Heaven Anymore
-  album: Revolutionary Ballads, Labor Hymns, & Sectarian Satire
+  album: Revolutionary Anthems, Labor Hymns, & Sectarian Satire
   file: YourFlagDecalWontGetYouIntoHeavenAnymore
-  playlist: RevolutionaryBallads
+  playlist: RevolutionaryAnthems
   index: '1'
 
 Other:
 - title: Christmas in Prison
-  album: Revolutionary Ballads, Labor Hymns, & Sectarian Satire
+  album: Bah Humbug
   file: ChristmasinPrison
-  playlist: RevolutionaryBallads
+  playlist: BahHumbug
   index: '0'
