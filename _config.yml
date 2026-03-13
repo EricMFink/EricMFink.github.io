@@ -32,7 +32,7 @@ page_gen:
   title: 'title'
   dir: 'music'
   
-- data: 'songs.RevolutionaryBallads'
+- data: 'songs.RevolutionaryAnthems'
   template: 'amplitudejs-single'
   name: 'file'
   extension: 'html'
