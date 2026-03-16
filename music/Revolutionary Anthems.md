@@ -1,6 +1,6 @@
 ---
 layout: amplitudejs-playlist
-title: "Revolutionary Ballads, Labor Hymns, & Sectarian Satire"
-playlist: RevolutionaryBallads 
+title: "Revolutionary Anthems, Labor Hymns, & Sectarian Satire"
+playlist: RevolutionaryAnthems
 
 ---
