@@ -48,10 +48,10 @@ right:
 - title: Music
   url: 'https://www.emfink.net/music'
 - title: Navidrome
-  url: 'http://100.91.210.1:4533/'
+  url: 'http://golem-nas.tail81229.ts.net:4533/'
 - title: Jellyfin
-  url: 'http://100.91.210.1:8096'
+  url: 'http://golem-nas.tail81229.ts.net:9096/'
 - title: Calibre
-  url: 'http://100.91.210.1:8083/'
+  url: 'http://golem-nas.tail81229.ts.net:8083/'
 - title: Zotero
   url: 'https://www.zotero.org/emfink/library'
