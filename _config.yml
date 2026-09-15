@@ -60,7 +60,6 @@ pandoc:
   extensions:
     - section-divs
     - from: 'markdown+smart+tex_math_single_backslash'
-    - filter: 'pandoc-sidenote'
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /:categories/:year/:month/:day/:title/
