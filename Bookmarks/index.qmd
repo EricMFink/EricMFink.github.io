@@ -1,0 +1,80 @@
+---
+format:
+  html:
+    css: styles-bookmarks.css
+    page-layout: custom
+---
+
+::: {.bookmarks} 
+
+::: {.grid}
+ 
+::: {.g-col-4}
+
+##### [Gmail](https://mail.google.com)
+
+##### [Calendar](https://calendar.google.com)
+
+##### [Google Drive](https://drive.google.com)
+
+##### [Maps](https://www.google.com/maps)
+
+##### [Voice](https://voice.google.com)
+
+##### [Raindrop](https://app.raindrop.io/my/0)
+
+##### [Amazon](https://www.amazon.com/)
+
+##### [Tailscale](https://login.tailscale.com/admin/machines)
+
+##### [Syncthing](http://127.0.0.1:8384/)
+
+:::
+
+::: {.g-col-4}
+
+##### [GitHub](https://github.com/EricMFink)
+
+##### [Codeberg](https://codeberg.org/emfink)
+
+##### [Presentations](https://www.emfink.net/revealjs)
+
+##### [Music](https://www.emfink.net/music)
+
+##### [Navidrome](http://golem-nas:4533/)
+
+##### [Jellyfin](http://golem-nas:9096/)
+
+##### [Calibre](http://golem-nas:8213/)
+
+##### [Zotero](https://www.zotero.org/emfink/library)
+
+##### [Google Scholar](https://scholar.google.com/)
+
+:::
+
+::: {.g-col-4}
+
+##### [Elon Law](https://www.elon.edu/u/law/)
+
+##### [Outlook](https://outlook.office.com)
+
+##### [Civil Procedure](https://www.emfink.net/CivPro)
+
+##### [Professional Responsibility](https://www.emfink.net/PR)
+
+##### [Employment Law](https://www.emfink.net/EmploymentLaw)
+
+##### [Residency](https://www.emfink.net/Residency)
+
+##### [Belk Library](https://www.elon.edu/u/library/)
+
+##### [JSTOR](https://ezproxy.elon.edu/login?url=http://www.jstor.org/)
+
+##### [Westlaw](https://lawschool.westlaw.com/)
+
+:::
+
+:::
+
+:::

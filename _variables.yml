@@ -1,0 +1,16 @@
+version: 1.0
+
+author: 
+  name: Eric M. Fink
+  email: efink@elon.edu
+  phone: +1 336-279-9334
+  appointments: https://calendly.com/emfink/
+  institution: Elon University School of Law
+  address: 201 North Greene Street
+  location: Greensboro, North Carolina 27408
+  web: emfink.net/ElonLaw
+  mail-to: mailto:emfink@gmail.com
+  call: tel:336-279-9334
+
+links: 
+  codeberg: emfink.codeberg.page
