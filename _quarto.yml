@@ -5,8 +5,14 @@ website:
   title: Eric M. Fink
   bread-crumbs: false
   favicon: img/favicon.ico
-  sidebar:
-    contents: auto
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Bookmarks"
+        href: /Bookmarks
 
 format:
   html:
@@ -15,3 +21,13 @@ format:
       - brand
     css: styles.css
     toc: false
+    resources:
+    - media/*
+    - path/to/audio.mp3
+    include-in-header:
+    - text: |
+        <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+        <meta name="robots" content="noarchive">

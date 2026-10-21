@@ -1,0 +1,107 @@
+/* css styles */
+
+body {
+	font-family: "Literata",serif;
+	color: #191919;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.3;
+	text-align: left;
+	margin: 0;
+	padding: 0 2.5%;
+	quotes: "‘" "’";
+	height: 100vh;
+	overflow: hidden;
+	background-color: #fffaf0;	
+	background-image: url("cover.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+}
+
+h1.title {
+	font-family: "Adelle Sans", sans-serif;
+	color: #fffff8;
+	text-shadow: 2px 2px 3px rgb(0, 0, 0);
+}
+
+/* Lists */
+.about ol, ul {
+	font-size: 0.9rem;
+	font-weight: 300;
+	margin: 0.5rem 0 0.5rem 2rem;
+	padding: 0;
+}
+
+.about li {
+	font-size: 0.9rem;
+	line-height: 1.3;
+	margin-bottom: 0.5rem;
+}
+
+/* Blockquote */
+.about blockquote {
+	margin: 0 0 1rem;
+	padding: .625rem 1.25rem;
+	border-left: none;
+}
+
+.about blockquote p {
+	font-size: 0.9rem;
+	font-weight: 300;
+	font-style: italic;
+}
+
+/* About */
+
+.about h1 {
+	color: #fffff8;
+	text-shadow: 2px 2px 3px rgb(0, 0, 0);
+}
+
+.about h2 {
+	font-size: 1.5rem;
+	font-weight: 400;
+	color: #fffff8;
+	margin: 0 0 2rem 0;
+	text-shadow: 2px 2px 3px rgb(0, 0, 0);
+}
+
+.about h3 {
+	font-size: 1rem;
+	font-weight: 400;
+	color: #fffff8;
+	margin: 0;
+	text-shadow: 2px 2px 3px rgb(0, 0, 0);
+}
+
+.about a {
+	color: #fffff8;
+	text-decoration: none;
+		&:hover {
+		color:#4b9cd3;
+		}
+}
+
+.about-links {
+	display: block;
+	font-size: 1rem;
+	color: #fffff8;
+	text-decoration: none;
+	padding: .5em 0 0 0;
+}
+
+.about-link {
+	font-size: .8em;
+	padding: 0;
+	border: none;
+}
+
+.about-link i.bi {
+	font-size: 1.5rem;
+	color: #fffff8;
+	margin: 0 2rem 0 0;
+		&:hover {
+		color:#4b9cd3;
+		}
+}
