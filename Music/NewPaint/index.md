@@ -5,7 +5,7 @@ cover: tired.png
 
 format:
   html:
-    css: styles-music.css
+    css: /Music/styles-music.css
     page-layout: custom
 
 ---
@@ -14,12 +14,7 @@ format:
 
 ![New Paint](/img/music/tired.png)
 
-::: {.audio}  
-
 {{< audio file="/media/NewPaint.mp3">}}
 
-::: 
-
-:::
-  
+:::  
  

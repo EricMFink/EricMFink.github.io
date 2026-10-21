@@ -13,8 +13,8 @@ body {
 	text-align: left;
 	margin: 0;
 	quotes: "‘" "’";
-	height: 100vh;
-	overflow: hidden;
+	height: 100%;
+	overflow: scroll;
 	background-color: #fffaf0;	
 }
 
@@ -125,10 +125,6 @@ body {
   margin: 0 auto 0 auto;
 }
 
-.audio {
-	width: 100%;
-}
-
 /*
 .player .quarto-figure {
 	position: relative;
@@ -137,14 +133,15 @@ body {
 */
 
 .player figure {
-	width: 100%;
+  width: 100%;
+  margin: 0 auto 0 auto;
 }
 
 .player figcaption, caption {
-	font-size: 1.2rem;
-	color: #191919;
-	text-align: center;
-	width: inherit;
+  font-size: 1rem;
+  color: #191919;
+  text-align: center;
+  margin: 1rem auto 0 auto;
 }
 
 .player .quarto-figure-center > figure > p, .quarto-figure-center > figure > div {
@@ -152,5 +149,10 @@ body {
 }
 
 .player img {
+	max-width: 500px;
 	margin: 0 auto 0 auto;
+}
+
+audio {
+  width: 100%;
 }
