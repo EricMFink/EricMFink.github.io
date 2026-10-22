@@ -1,0 +1,27 @@
+---
+format:
+  html:
+    css: styles-music.css
+    page-layout: custom
+
+---
+
+## Songs
+
+::: {.grid}
+
+::: {.g-col-6}
+ 
+![December 1984](../img/music/December1984.jpg) 
+
+:::
+
+::: {.g-col-6}
+
+- [New Paint](/Music/NewPaint)
+
+- [The Ballad of Harry Tompkins](/Music/HarryTompkins)
+
+:::
+
+:::

@@ -7,12 +7,7 @@ website:
   favicon: img/favicon.ico
   navbar:
     background: primary
-    search: true
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Bookmarks"
-        href: /Bookmarks
+    search: false
 
 format:
   html:

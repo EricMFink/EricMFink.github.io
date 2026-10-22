@@ -9,14 +9,51 @@ format:
     page-layout: custom
 
 ---
+
+::: {.grid}
+
+::: {.g-col-6}
  
 ::: {.player}  
 
-## The Ballad of Harry Tompkins
+### The Ballad of Harry Tompkins
  
 ![Harry Tompkins with his daughter Naomi (1960)](/img/music/harry-tompkins.png)
 
 {{< audio file="/media/HarryTompkins.mp3">}}
 
 :::
- 
+
+:::
+
+::: {.g-col-6}
+
+::: {.lyrics}
+
+#### The Ballad of Harry Tompkins
+
+Along came the Erie freight, the swiftest on the line. \
+Avoca down to Ashley, number 2499 \
+Running into Hughestown, smoke pouring from the stack \
+As Harry Tompkins walked along the Erie Railroad track
+
+The train flew by and knocked poor Harry down along the trail \
+Poor Harry’s arm was caught between the wheels and the rail \
+His arm it fell between the ties, amidst the dust and dew \
+While Harry's armless body lay beside the avenue
+
+Harry sued the Railroad, praying for relief \
+The jury found for Harry, but his victory was brief \
+The Justices in Washington, they had the final say: \
+State law must be applied, the Railroad would not pay
+
+So when you go to federal court, asserting state law claims \
+Remember Harry Tompkins and the case that bears his name \
+Poor Harry lost his arm and then he lost his remedy \
+And the very last words that Harry said were “Screw the Erie”
+
+:::
+
+:::
+
+:::
