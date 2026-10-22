@@ -1,0 +1,156 @@
+// fonts
+$font-sans-serif: "Adelle Sans", sans-serif !default;
+$font-monospace: "Lft-Etica-Mono", "Courier New", monospace;
+$body-font-family: "Literata",serif !default;
+
+// font sizes & weights
+$root-font-size: 17px;
+$body-font-size: 1rem;
+$body-font-weight: 300;
+$body-line-height: 1.5;
+$heading-font-weight: 400;
+$heading-line-height: 1.3;
+$h1-font-size: 2.074rem !default;
+$h2-font-size: 1.728rem !default;
+$h3-font-size: 1.44rem !default;
+$h4-font-size: 1.2rem !default;
+$h5-font-size: 1rem !default;
+$h6-font-size: 0.8333rem !default;
+
+// font colors
+$body-color: #191919;
+$body-color-rgb: 52, 58, 64;
+$body-bg: #fffaf0;
+$body-bg-rgb: 255, 250, 240;
+$heading-color: #800000;
+$emphasis-color: #000;
+$emphasis-color-rgb: 0, 0, 0;
+$secondary-color: rgba(52, 58, 64, 0.75);
+$secondary-color-rgb: 52, 58, 64;
+$secondary-bg: #e9ecef;
+$secondary-bg-rgb: 233, 236, 239;
+$tertiary-color: rgba(52, 58, 64, 0.5);
+$tertiary-color-rgb: 52, 58, 64;
+$tertiary-bg: #f8f9fa;
+$tertiary-bg-rgb: 248, 249, 250;
+
+// colors
+
+$off-black: #191919 !default;
+$off-white: #fffffa !default;
+$body-bg: #fffaf0 !default;
+$maroon: #800000 !default;
+$navbar-bg:	#80000095 !default;
+$navbar-brand: #fffff8 !default;
+$darkskyblue: #002D72 !default;
+$tarheelblue: #4b9cd3 !default;
+$racinggreen: #004225 !default;
+$primary: $maroon !default;
+$blue: #0d6efd;
+$indigo: #6610f2;
+$purple: #613d7c;
+$pink: #e83e8c;
+$red: #ff0039;
+$orange: #f0ad4e;
+$yellow: #ff7518;
+$green: #3fb618;
+$teal: #20c997;
+$cyan: #9954bb;
+$black: #000;
+$white: #ffffff;
+$gray: #6c757d;
+$gray-dark: #343a40;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$default: #343a40;
+$primary: #800000;
+$secondary: #343a40;
+$success: #3fb618;
+$info: #9954bb;
+$warning: #ff7518;
+$danger: #ff0039;
+$light: #f8f9fa;
+$dark: #343a40;
+$default-rgb: 52, 58, 64;
+$primary-rgb: 128, 0, 0;
+$secondary-rgb: 52, 58, 64;
+$success-rgb: 63, 182, 24;
+$info-rgb: 153, 84, 187;
+$warning-rgb: 255, 117, 24;
+$danger-rgb: 255, 0, 57;
+$light-rgb: 248, 249, 250;
+$dark-rgb: 52, 58, 64;
+$primary-text-emphasis: rgb(51.2, 0, 0);
+$secondary-text-emphasis: rgb(20.8, 23.2, 25.6);
+$success-text-emphasis: rgb(25.2, 72.8, 9.6);
+$info-text-emphasis: rgb(61.2, 33.6, 74.8);
+$warning-text-emphasis: rgb(102, 46.8, 9.6);
+$danger-text-emphasis: rgb(102, 0, 22.8);
+$light-text-emphasis: #495057;
+$dark-text-emphasis: #495057;
+$primary-bg-subtle: rgb(229.6, 204, 204);
+$secondary-bg-subtle: rgb(214.4, 215.6, 216.8);
+$success-bg-subtle: rgb(216.6, 240.4, 208.8);
+$info-bg-subtle: rgb(234.6, 220.8, 241.4);
+$warning-bg-subtle: rgb(255, 227.4, 208.8);
+$danger-bg-subtle: rgb(255, 204, 215.4);
+$light-bg-subtle: rgb(251.5, 252, 252.5);
+$dark-bg-subtle: #ced4da;
+$primary-border-subtle: rgb(204.2, 153, 153);
+$secondary-border-subtle: rgb(173.8, 176.2, 178.6);
+$success-border-subtle: rgb(178.2, 225.8, 162.6);
+$info-border-subtle: rgb(214.2, 186.6, 227.8);
+$warning-border-subtle: rgb(255, 199.8, 162.6);
+$danger-border-subtle: rgb(255, 153, 175.8);
+$light-border-subtle: #e9ecef;
+$dark-border-subtle: #adb5bd;
+$white-rgb: 255, 255, 255;
+$black-rgb: 0, 0, 0;
+
+// links
+$link-color: #002D72;
+$link-color-rgb: 0, 45, 114;
+$link-decoration: underline;
+$link-hover-color: rgb(0, 36, 91.2);
+$link-hover-color-rgb: 0, 36, 91;
+
+// code 
+$code-color: #7d12ba;
+$highlight-bg: rgb(255, 227.4, 208.8);
+
+// borders
+$border-width: 1px;
+$border-style: solid;
+$border-color: #dee2e6;
+$border-color-translucent: rgba(0, 0, 0, 0.175);
+$border-radius: 0.25rem;
+$border-radius-sm: 0.2em;
+$border-radius-lg: 0.5rem;
+$border-radius-xl: 1rem;
+$border-radius-xxl: 2rem;
+$border-radius-2xl: var(--bs-border-radius-xxl);
+$border-radius-pill: 50rem;
+
+// box shadow
+$box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+$box-shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+$box-shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+$box-shadow-inset: inset 0 1px 2px rgba(0, 0, 0, 0.075);
+
+//focus
+$focus-ring-width: 0.25rem;
+$focus-ring-opacity: 0.25;
+$focus-ring-color: rgba(128, 0, 0, 0.25);
+
+//forms
+$form-valid-color: #3fb618;
+$form-valid-border-color: #3fb618;
+$form-invalid-color: #ff0039;
+$form-invalid-border-color: #ff0039;

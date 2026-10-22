@@ -14,7 +14,8 @@ format:
     theme:
       - cosmo
       - brand
-    css: styles.css
+      - scss/custom.scss
+    respect-user-color-scheme: true
     toc: false
     resources:
     - media/*

@@ -1,0 +1,82 @@
+---
+title: "Test Page"
+
+format: 
+  html:
+    css: styles-page.css
+---
+
+## Music 
+
+### The Ballad of Harry Tompkins
+ 
+::: {.grid}
+
+::: {.g-col-5}
+ 
+::: {.player}  
+ 
+![Harry Tompkins with his daughter Naomi (1960)](/img/music/harry-tompkins.png)
+
+:::
+
+{{< audio file="/media/HarryTompkins.mp3">}}
+
+
+:::
+
+::: {.g-col-7}
+
+::: {.lyrics}
+
+Along came the Erie freight, the swiftest on the line. \
+Avoca down to Ashley, number 2499 \
+Running into Hughestown, smoke pouring from the stack \
+As Harry Tompkins walked along the Erie Railroad track
+
+The train flew by and knocked poor Harry down along the trail \
+Poor Harry’s arm was caught between the wheels and the rail \
+His arm it fell between the ties, amidst the dust and dew \
+While Harry's armless body lay beside the avenue
+
+Harry sued the Railroad, praying for relief \
+The jury found for Harry, but his victory was brief \
+The Justices in Washington, they had the final say: \
+State law must be applied, the Railroad would not pay
+
+So when you go to federal court, asserting state law claims \
+Remember Harry Tompkins and the case that bears his name \
+Poor Harry lost his arm and then he lost his remedy \
+And the very last words that Harry said were “Screw the Erie”
+
+:::
+
+:::
+
+:::
+
+## Heading level 2 
+ 
+### Heading level 3
+
+#### Franz Kafka, _Before the Law_
+
+Before the law sits a gatekeeper. To this gatekeeper comes a man from the country who asks to gain entry into the law. But the gatekeeper says that he cannot grant him entry at the moment. The man thinks about it and then asks if he will be allowed to come in later on. “It is possible,” says the gatekeeper, “but not now.” At the moment the gate to the law stands open, as always, and the gatekeeper walks to the side, so the man bends over in order to see through the gate into the inside. When the gatekeeper notices that, he laughs and says: “If it tempts you so much, try it in spite of my prohibition. But take note: I am powerful. And I am only the most lowly gatekeeper. But from room to room stand gatekeepers, each more powerful than the other. I can’t endure even one glimpse of the third.” 
+ 
+The man from the country has not expected such difficulties: the law should always be accessible for everyone, he thinks, but as he now looks more closely at the gatekeeper in his fur coat, at his large pointed nose and his long, thin, black Tartar’s beard, he decides that it would be better to wait until he gets permission to go inside. The gatekeeper gives him a stool and allows him to sit down at the side in front of the gate. There he sits for days and years. He makes many attempts to be let in, and he wears the gatekeeper out with his requests. The gatekeeper often interrogates him briefly, questioning him about his homeland and many other things, but they are indifferent questions, the kind great men put, and at the end he always tells him once more that he cannot let him inside yet.
+
+![Franz Kafka, Mann zwischen Gittern](/img/test/Mann_zwischen_Gittern.png)
+
+
+#### U.S. Constitution, Article III
+
+##### Section 1
+
+> The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish. The judges, both of the supreme and inferior courts, shall hold their offices during good behaviour, and shall, at stated times, receive for their services, a compensation, which shall not be diminished during their continuance in office.
+>
+> The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;--to all cases affecting ambassadors, other public ministers and consuls;--to all cases of admiralty and maritime jurisdiction;--to controversies to which the United States shall be a party;--to controversies between two or more states;--between a state and citizens of another state;--between citizens of different states;--between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.
+
+##### Section 2
+
+- The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;--to all cases affecting ambassadors, other public ministers and consuls;--to all cases of admiralty and maritime jurisdiction;--to controversies to which the United States shall be a party;--to controversies between two or more states;--between a state and citizens of another state;--between citizens of different states;--between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects.
+- In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.

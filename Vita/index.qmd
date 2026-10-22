@@ -7,27 +7,31 @@ format:
 
 ::: {.vita-container}
 
-::: {.vita-header} 
+::: {.download-icon}
 
 [{{< bi download >}}](vita.pdf "PDF"){.download-icon}
 
-::: {.vita-left}
-
-[{{< var author.institution >}}]{.contact}
-
-[{{< var author.address >}}]{.contact}
-
-[{{< var author.location >}}]{.contact}
-
 :::
  
+::: {.vita-header} 
+
+::: {.vita-left}
+
+{{< var author.institution >}}
+ 
+{{< var author.address >}}
+
+{{< var author.location >}}
+ 
+:::
+
 ::: {.vita-right}
 
-[[{{< var author.phone >}} {{< fa phone >}}]({{< var author.call >}})]{.contact}
+{{< var author.phone >}} [{{< fa phone >}}]({{< var author.call >}})
 
-[[{{< var author.email >}} {{< fa envelope >}}]({{< var author.mail-to >}})]{.contact}
+{{< var author.email >}} [{{< fa envelope >}}]({{< var author.mail-to >}})
 
-[[{{< var author.web >}} {{< fa globe >}}](https://{{< var author.web >}})]{.contact}
+{{< var author.web >}} [{{< fa globe >}}](https://{{< var author.web >}})
 
 :::
 
@@ -190,13 +194,11 @@ Contributing Editor, _The Developing Labor Law_ (P. Hardin, ed., 4th ed. 2001)
 ## UNC Greeensboro
 
 - _Alpha Kappa Delta Sociology Honors Society_: Sociology in Legal Practice and Legal Scholarship (April 2017)
-
 - _Gamma Theta Upsilon Geography Honors Society_: The Place of Place in Law: Law and Geography (April 2008)
 
 ## Rockingham County Democratic Party
 
 - _Annual Convention Keynote Address_: Taking Democracy Seriously (April 2017)
-
 - _African-American Caucus_: Voting Rights in North Carolina (February 2017)
 
 ## Open Government Coalition/Sunshine Center
@@ -288,7 +290,7 @@ Contributing Editor, _The Developing Labor Law_ (P. Hardin, ed., 4th ed. 2001)
 - NC State Bar Ethics Committee, Advisory Member (2011-2013)
 
 # Bar Admissions
-
+ 
 ## State
 
 - California

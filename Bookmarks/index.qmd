@@ -5,10 +5,10 @@ format:
     page-layout: custom
 ---
 
-::: {.bookmarks} 
+::: {.bookmarks}  
 
-::: {.grid}
- 
+::: {.grid} 
+
 ::: {.g-col-4}
 
 ### [Gmail](https://mail.google.com)
