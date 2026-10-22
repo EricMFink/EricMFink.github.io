@@ -96,23 +96,7 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Eric M. Fink</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../Bookmarks"> 
-<span class="menu-text">Bookmarks</span></a>
-  </li>  
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+        <div class="quarto-navbar-tools tools-end">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -126,19 +110,27 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="player">
+<section id="songs" class="level2">
+<h2 data-anchor-id="songs">Songs</h2>
+<div class="grid">
+<div class="g-col-6">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../img/music/tired.png" class="img-fluid figure-img"></p>
-<figcaption>New Paint</figcaption>
+<p><img src="../img/music/December1984.jpg" class="img-fluid figure-img"></p>
+<figcaption>December 1984</figcaption>
 </figure>
 </div>
-<div class="audio">
-<figure class="figure"><audio controls="" src="/media/NewPaint.mp3" type="audio/mp3">Your browser does not support the audio tag.</audio><figcaption></figcaption></figure>
+</div>
+<div class="g-col-6">
+<ul>
+<li><p><a href="../Music/NewPaint">New Paint</a></p></li>
+<li><p><a href="../Music/HarryTompkins">The Ballad of Harry Tompkins</a></p></li>
+</ul>
 </div>
 </div>
 
 
+</section>
 
 
 <script id="quarto-html-after-body" type="application/javascript">
@@ -214,7 +206,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/www\.emfink\.net");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

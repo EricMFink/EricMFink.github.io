@@ -107,11 +107,17 @@ p {
 a {
 	color: #002D72;
 	text-decoration: none;
+		&:hover {
+		color:#4b9cd3;
+		}
 }
 
 p > a, cite > a, span > a {
 	color: #002D72;
 	text-decoration: none;
+		&:hover {
+		color:#4b9cd3;
+		}
 }
 
 /* Lists */
