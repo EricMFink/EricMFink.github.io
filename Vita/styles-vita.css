@@ -1,24 +1,5 @@
 /* css styles */
 
-html {
-	scroll-behavior: smooth;
-}
-body {
-	font-family: "Literata",serif;
-	color: #191919;
-	font-size: 16px;
-	font-weight: 300;
-	line-height: 1.3;
-	text-align: left;
-	width: 90%;
-	max-width: 100%;
-	height: 100%;
-	margin: 0 auto 0 auto;
-	quotes: "‘" "’";
-	background-color: #fffaf0;	
-	background-image: none;
-	overflow: scroll;
-}
 
 .vita-container {
 	padding: 75px 0;
@@ -35,29 +16,14 @@ body {
 	margin: 0;
 }
 
-.contact {
-    font-family: "Literata",serif;
-	font-weight: 300;
-	text-align: right;
-    margin: 0;
-    padding: 0;
-}
-
-.contact p {
-    font-size: .8rem;
-	font-weight: 300;
-	text-align: right;
-	margin: 0 0 .2rem 0;
-}
-
 .vita-left {
 	text-align: right;
 	float: left;
 	width: 60%;
 }
 .vita-left p {
+    color: #191919;
     font-size: .8rem;
-	font-weight: 300;
 	line-height: 1;
 	text-align: right;
 	margin: 0 0 .2rem 0;
@@ -67,30 +33,31 @@ body {
 	float: right;
 }
 .vita-right p {
+    color: #191919;
     font-size: .8rem;
 	font-weight: 300;
 	line-height: 1;
 	text-align: right;
 	margin: 0 0 .2rem 0;
 }
+.download-icon {
+	text-align: right;
+	margin: 0 0 2rem 0;
+}
+
 .download-icon i {
     font-size: 1.5rem;
 	padding: 0 0 2rem 0;
 }
 
 .vita-author {
-    margin: 5rem 0 0 0;
+    padding: 5rem 0 0 0;
 }
 
 .vita-author p {
-    font-family: "Literata",serif;
-    color: #191919;
     font-size: 2rem;
 	font-weight: 400;
-	line-height: 1;
-	margin: 0;
-	padding: 0;
-    border-bottom: none;
+	margin: 0 0 0 0;
 }
 
 .vita-body {
@@ -126,7 +93,7 @@ h4 {
 	font-weight: 300;
 	font-size: 1.2rem;
     font-style: italic;
-	margin: 2rem 0 0 0;
+	margin: 1.5rem 0 .5rem 0;
 }
 h5 {
     font-family: "Literata",serif;
