@@ -570,6 +570,31 @@ audio {
   padding: 0 0 0 0;
 }
 
+/* 404 PAGE */
+.gevalt {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.gevalt .img-fluid {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	width: 33%;
+}
+
+.gevalt figcaption, caption {
+  font-family: $body-font-family;
+	color: #800000;
+	font-weight: 300;
+	font-size: .9rem;
+	font-style: italic;
+	text-align: center;
+	margin: 1rem 0 0 0;
+	width: 100%;
+	display: block;
+}
+
 @media (min-width: 576px) {
   :root {
   --bs-root-font-size: 15px;
