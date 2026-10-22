@@ -12,7 +12,7 @@ format:
  
 ::: {.grid}
 
-::: {.g-col-5}
+::: {.g-col-5} 
  
 ::: {.player}  
  
@@ -21,7 +21,6 @@ format:
 :::
 
 {{< audio file="/media/HarryTompkins.mp3">}}
-
 
 :::
 

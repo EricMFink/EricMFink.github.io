@@ -19,7 +19,6 @@ format:
     toc: false
     resources:
     - media/*
-    - path/to/audio.mp3
     include-in-header:
     - text: |
         <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">

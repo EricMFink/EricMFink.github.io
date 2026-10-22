@@ -1,36 +1,26 @@
 ---
-song: New Paint
-file: /media/NewPaint.mp3
-cover: tired.png
-
-format:
-  html:
-    css: /Music/styles-music.css
-    page-layout: custom
-
+song: The Ballad of Harry Tompkins
 ---
 
+## The Ballad of Harry Tompkins
+ 
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-5}
  
 ::: {.player}  
 
-### The Ballad of Harry Tompkins
- 
 ![Harry Tompkins with his daughter Naomi (1960)](/img/music/harry-tompkins.png)
+
+:::
 
 {{< audio file="/media/HarryTompkins.mp3">}}
 
 :::
 
-:::
-
-::: {.g-col-6}
+::: {.g-col-7}
 
 ::: {.lyrics}
-
-#### The Ballad of Harry Tompkins
 
 Along came the Erie freight, the swiftest on the line. \
 Avoca down to Ashley, number 2499 \

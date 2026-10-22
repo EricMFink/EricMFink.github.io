@@ -6,7 +6,7 @@ format:
 
 ---
 
-## Songs
+## Music
 
 ::: {.grid}
 
@@ -17,6 +17,8 @@ format:
 :::
 
 ::: {.g-col-6}
+
+### Songs
 
 - [New Paint](/Music/NewPaint)
 
