@@ -3,7 +3,7 @@ title: "Eric M. Fink"
 navbar: false
 format: 
   html:
-    css: styles-home.css
+    css: /css/about.css
     page-layout: custom
 ---
 

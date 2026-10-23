@@ -1,0 +1,17 @@
+---
+song: New Paint
+---
+
+::: {.music}
+
+## New Paint
+
+::: {.player}
+
+![New Paint](/img/music/tired.png) 
+
+:::
+ 
+{{< audio file="/media/NewPaint.mp3">}}
+
+:::

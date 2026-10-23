@@ -1,7 +1,7 @@
 ---
 format:
   html:
-    css: styles-vita.css
+    css: /css/vita.css
     page-layout: custom
 ---
 
