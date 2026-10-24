@@ -27,14 +27,14 @@ h1.title {
 }
 
 .work h1 {
-  font-family: $body-font-family;
+  font-family: "Literata",serif;
   color: #800000;
   text-shadow: 2px 2px 3px rgb(0, 0, 0);
 }
 
 .work h2 {
   font-family: "Literata",serif;
-  font-size: $h1-font-size;
+  font-size: 2.074rem ;
   font-weight: 500;
   color: #fffff8;
   text-align: center;
@@ -44,7 +44,7 @@ h1.title {
 
 .work h3 {
   font-family: "Literata",serif;
-  font-size: $h2-font-size;
+  font-size: 1.728rem;
   font-weight: 500;
   color: #fffff8;
   text-align: center;
@@ -54,7 +54,7 @@ h1.title {
 
 .work h4 {
   font-family: "Literata",serif;
-  font-size: $h3-font-size;
+  font-size: 1.44rem;
   font-weight: 500;
   color: #fffff8;
   text-align: center;
