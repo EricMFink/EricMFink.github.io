@@ -1,17 +1,26 @@
 ---
 song: New Paint
----
 
-::: {.music}
+---
 
 ## New Paint
 
-::: {.player}
+::: {.grid}
+
+::: {.g-col-5}
+
+::: {.player} 
 
 ![New Paint](/img/music/tired.png) 
 
 :::
  
 {{< audio file="/media/NewPaint.mp3">}}
+
+:::
+
+::: {.g-col7}
+
+:::
 
 :::

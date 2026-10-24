@@ -16,17 +16,13 @@ format:
 
 :::
 
-::: {.g-col-3}
+::: {.g-col-6}
  
 ### Songs
 
 - [New Paint](/Music/NewPaint)
 
 - [The Ballad of Harry Tompkins](/Music/HarryTompkins)
-
-:::
-
-::: {.g-col-3}
 
 :::
 

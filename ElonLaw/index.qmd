@@ -1,0 +1,21 @@
+---
+navbar: false
+format: 
+  html:
+    css: /css/work.scss
+    page-layout: custom
+---
+
+::: {.work}
+
+## Eric M. Fink
+ 
+### Associate Professor of Law
+
+### Elon University School of Law 
+
+### Greensboro, North Carolina
+
+[[{{< bi envelope >}}](mailto:emfink@gmail.com)]{.work-link} [[{{< bi briefcase >}}](https://www.elon.edu/u/law/directory/profile/efink/)]{.work-link} [[{{< bi github >}}](https://github.com/EricMFink)]{.work-link} [[{{< bi journal-code >}}](https://codeberg.org/emfink)]{.work-link} [[{{< ai zotero >}}](https://www.zotero.org/emfink/library)]{.work-link} [[{{< ai google-scholar >}}](https://scholar.google.com/citations?user=TOHVdLgAAAAJ&hl=en)]{.work-link} [[{{< ai cv >}}](/Vita)]{.work-link}
+
+:::

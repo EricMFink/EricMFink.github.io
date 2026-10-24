@@ -39,7 +39,7 @@ format:
 
 ### [Presentations](https://www.emfink.net/revealjs)
 
-### [Music](https://www.emfink.net/music)
+### [Music](/Music)
 
 ### [Navidrome](http://golem-nas:4533/)
 

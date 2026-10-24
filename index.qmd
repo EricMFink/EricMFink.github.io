@@ -7,7 +7,7 @@ format:
     page-layout: custom
 ---
 
-::: {.about}
+::: {.about} 
 
 ## Greensboro, North Carolina
  
@@ -15,7 +15,7 @@ format:
  
 ::: {.about-links} 
 
-<p><a href="mailto:emfink@gmail.com" class="about-link" rel="" target="" data-original-href="mailto:emfink@gmail.com"><i class="bi bi-envelope"></i></a> <a href="https://emfink.net/ElonLaw" class="about-link" rel="" target="" ><i class="bi bi-briefcase"></i></a> <a href="https://github.com/EricMFink" class="about-link" rel="" target=""> <i class="bi bi-github"></i></a>  <a href="https://codeberg.org/emfink" class="about-link" rel="" target=""><i class="bi bi-journal-code"></i></a> <a href="Bookmarks" class="about-link" rel="" target=""><i class="bi bi-bookmarks"></i></a><a href="Vita" class="about-link" rel="" target=""><i class="bi bi-file-earmark-text"></i></a></p>
+<p><a href="mailto:emfink@gmail.com" class="about-link" rel="" target="" data-original-href="mailto:emfink@gmail.com"><i class="bi bi-envelope"></i></a> <a href="/ElonLaw" class="about-link" rel="" target="" ><i class="bi bi-briefcase"></i></a> <a href="https://github.com/EricMFink" class="about-link" rel="" target=""> <i class="bi bi-github"></i></a>  <a href="https://codeberg.org/emfink" class="about-link" rel="" target=""><i class="bi bi-journal-code"></i></a> <a href="Bookmarks" class="about-link" rel="" target=""><i class="bi bi-bookmarks"></i></a><a href="Vita" class="about-link" rel="" target=""><i class="bi bi-file-earmark-text"></i></a></p>
 
 :::
 
