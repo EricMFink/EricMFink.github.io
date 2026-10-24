@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.emfink.net/Bookmarks/index.html</loc>
-    <lastmod>2026-10-23T02:47:22.388Z</lastmod>
+    <loc>https://www.emfink.net/ElonLaw/index.html</loc>
+    <lastmod>2026-10-24T22:28:08.383Z</lastmod>
   </url>
   <url>
-    <loc>https://www.emfink.net/Music/HarryTompkins/index.html</loc>
-    <lastmod>2026-10-22T21:02:43.945Z</lastmod>
+    <loc>https://www.emfink.net/index.html</loc>
+    <lastmod>2026-10-24T22:43:07.740Z</lastmod>
   </url>
   <url>
-    <loc>https://www.emfink.net/Music/NewPaint/index.html</loc>
-    <lastmod>2026-10-22T21:02:13.239Z</lastmod>
+    <loc>https://www.emfink.net/Music/index.html</loc>
+    <lastmod>2026-10-24T22:42:19.004Z</lastmod>
   </url>
   <url>
-    <loc>https://www.emfink.net/404/index.html</loc>
-    <lastmod>2026-10-22T21:41:53.818Z</lastmod>
+    <loc>https://www.emfink.net/test-page.html</loc>
+    <lastmod>2026-10-24T22:18:29.914Z</lastmod>
   </url>
   <url>
     <loc>https://www.emfink.net/Vita/index.html</loc>
     <lastmod>2026-10-23T02:46:45.975Z</lastmod>
   </url>
   <url>
-    <loc>https://www.emfink.net/test-page.html</loc>
-    <lastmod>2026-10-22T20:19:25.665Z</lastmod>
+    <loc>https://www.emfink.net/404/index.html</loc>
+    <lastmod>2026-10-22T21:41:53.818Z</lastmod>
   </url>
   <url>
-    <loc>https://www.emfink.net/Music/index.html</loc>
-    <lastmod>2026-10-24T02:34:39.475Z</lastmod>
+    <loc>https://www.emfink.net/Music/NewPaint/index.html</loc>
+    <lastmod>2026-10-24T22:47:50.928Z</lastmod>
   </url>
   <url>
-    <loc>https://www.emfink.net/index.html</loc>
-    <lastmod>2026-10-24T02:02:17.967Z</lastmod>
+    <loc>https://www.emfink.net/Music/HarryTompkins/index.html</loc>
+    <lastmod>2026-10-24T22:45:36.218Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.emfink.net/Bookmarks/index.html</loc>
+    <lastmod>2026-10-24T22:31:26.440Z</lastmod>
   </url>
 </urlset>
