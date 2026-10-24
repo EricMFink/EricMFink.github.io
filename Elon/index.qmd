@@ -2,7 +2,7 @@
 navbar: false
 format: 
   html:
-    css: /css/work.scss
+    css: /css/work.css
     page-layout: custom
 ---
 
