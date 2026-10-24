@@ -5,7 +5,7 @@ $font-monospace: "Lft-Etica-Mono", "Courier New", monospace;
 $body-font-family: "Literata",serif !default;
 
 // font sizes & weights
-$font-size-root: 14px;
+$font-size-root: 10px;
 $body-font-size: 1rem;
 $body-font-weight: 300;
 $body-line-height: 1.5;
@@ -39,7 +39,7 @@ $off-black: #191919 !default;
 $off-white: #fffffa !default;
 $body-bg: #fffaf0 !default;
 $maroon: #800000 !default;
-$navbar-bg:	#80000095 !default;
+$navbar-bg:  #80000095 !default;
 $navbar-brand: #fffff8 !default;
 $darkskyblue: #002D72 !default;
 $tarheelblue: #4b9cd3 !default;
@@ -435,104 +435,101 @@ $grid-breakpoints: (
 /*-- scss:rules --*/
 body {
   font-family: $body-font-family;
+  margin: 1rem 2.5% 0 2.5%;
 }
 
 .navbar-brand {
-	font-size: 1.2rem;
+  font-size: 1.2rem;
   font-weight: 400;
-	color: #fffff8;
+  color: #fffff8;
 }
 
 h1, h2, h3 {
   font-family: $font-sans-serif;
   font-style: normal;
   font-weight: 400;
-	line-height: 1.3;
-	color: #800000;
-	opacity: 1;
-	padding: 0;
-	border: none;
+  line-height: 1.3;
+  color: #800000;
+  opacity: 1;
+  padding: 0;
+  border: none;
 }
 
 h4, h5, h6 {
   font-family: $body-font-family;
-	font-style: normal;
-	font-weight: 500;
-	line-height: 1.3;
-	opacity: 1;
-	padding: 0;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.3;
+  opacity: 1;
+  padding: 0;
 }
 
 /* Body Text */
 p {
   font-family: $body-font-family;
-	font-size: 1rem;
-	font-weight: 300;
-	margin: 0 0 1rem 0;
+  font-size: 1rem;
+  font-weight: 300;
+  margin: 0 0 1rem 0;
 }
 
 .blockquote {
-	font-size: inherit;
-	margin: 0 0 1rem 0;
-	padding: .625rem 1.25rem;
-	border-left: .25rem solid #e9ecef;
-	color: rgb(88.75,88.75,88.75);
+  font-size: inherit;
+  margin: 0 0 1rem 0;
+  padding: .625rem 1.25rem;
+  border-left: .25rem solid #e9ecef;
+  color: rgb(88.75,88.75,88.75);
 }
 
 .blockquote > :last-child {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 li {
-	font-size: 0.9rem;
-	margin: 0 0 .5rem 0;
+  font-size: 0.9rem;
+  margin: 0 0 .5rem 0;
 }
+
 
 /* Figures & Images */
 .quarto-figure {
-	position: relative;
-	margin-bottom: 0;
+  position: relative;
+  margin-bottom: 0;
 }
 
 .quarto-figure > figure {
-	max-width: 100%;
-	margin-bottom: 0;
+  max-width: 100%;
+  margin-bottom: 0;
 }
 
 figure.figure {
-	display: block;
+  display: block;
 }
 
 .figure {
-	display: inline-block;
+  display: inline-block;
 }
 
 figure {
-	margin: 0 0 1rem;
+  margin: 0 0 1rem;
 }
 
 .figure-img {
-	margin-bottom: .5rem;
-	line-height: 1;
+  margin-bottom: .5rem;
+  line-height: 1;
 }
 
 .img-fluid {
-	max-width: 100%;
-	height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .panel-caption, .figure-caption, .subfigure-caption, .table-caption, figcaption, caption {
-	font-size: .9rem;
-	color: $gray-700;
-	text-align: center;
+  font-size: .9rem;
+  color: $gray-700;
+  text-align: center;
 }
 
 // music
-
-.music {
-  max-width: 50%;
-  margin: 0 auto 0 auto;
-}
 
 .player {
   margin: 0 auto 0 auto;
@@ -541,11 +538,11 @@ figure {
 }
 
 .player .figure-img {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 .lyrics p {
-  font-size: .85em;	
+  font-size: .85em;  
 }
 
 .player figure {
@@ -557,9 +554,9 @@ figure {
   font-family: $font-sans-serif;
   font-style: normal;
   font-weight: 600;
-	font-size: .75rem;
-	color: #fffff8;
-	text-align: center;
+  font-size: .75rem;
+  color: #fffff8;
+  text-align: center;
   margin: 0 auto 0 auto;
   padding: .5rem 0 .5rem 0;
 }
@@ -572,44 +569,44 @@ audio {
 
 /* 404 PAGE */
 .gevalt {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
 }
 .gevalt .img-fluid {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 0;
-	width: 33%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  width: 33%;
 }
 
 .gevalt figcaption, caption {
   font-family: $body-font-family;
-	color: #800000;
-	font-weight: 300;
-	font-size: .9rem;
-	font-style: italic;
-	text-align: center;
-	margin: 1rem 0 0 0;
-	width: 100%;
-	display: block;
+  color: #800000;
+  font-weight: 300;
+  font-size: .9rem;
+  font-style: italic;
+  text-align: center;
+  margin: 1rem 0 0 0;
+  width: 100%;
+  display: block;
 }
 
 @media (min-width: 576px) {
   :root {
-  --bs-root-font-size: 15px;
+  --bs-root-font-size: 12px;
  }
 }
   
 @media (min-width: 768px) {
   :root {
-  --bs-root-font-size: 16px;
+  --bs-root-font-size: 14px;
  }
 }
 
 @media (min-width: 992px) {
   :root {
-  --bs-root-font-size: 17px;
+  --bs-root-font-size: 16px;
  }
 }
 

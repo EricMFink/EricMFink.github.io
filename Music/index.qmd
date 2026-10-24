@@ -1,7 +1,7 @@
 ---
 format:
   html:
-    css: styles-music.css
+    css: /css/music.css
     page-layout: custom
 
 ---
@@ -16,13 +16,17 @@ format:
 
 :::
 
-::: {.g-col-6}
-
+::: {.g-col-3}
+ 
 ### Songs
 
 - [New Paint](/Music/NewPaint)
 
 - [The Ballad of Harry Tompkins](/Music/HarryTompkins)
+
+:::
+
+::: {.g-col-3}
 
 :::
 

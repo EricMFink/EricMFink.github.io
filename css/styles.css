@@ -1,159 +1,159 @@
 /* css styles */
 
 html {
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 body {
-	font-family: "Literata",serif;
-	color: #191919;
-	font-size: 16px;
-	font-weight: 300;
-	line-height: 1.3;
-	text-align: left;
-	margin: 0;
-	padding: 0 15%;
-	quotes: "‘" "’";
-	max-width: 100%;
-	overflow: scroll;
-	background-color: #fffaf0;	
+  font-family: "Literata",serif;
+  color: #191919;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.3;
+  text-align: left;
+  margin: 0;
+  padding: 0 15%;
+  quotes: "‘" "’";
+  max-width: 100%;
+  overflow: scroll;
+  background-color: #fffaf0;  
 }
 
 #title-block-header {
-	margin-block-end: 0;
-	position: relative;
-	margin: 1rem 0 0 0;
+  margin-block-end: 0;
+  position: relative;
+  margin: 1rem 0 0 0;
 }
 
 h1.title {
-	font-family: "Adelle Sans", sans-serif;
-	color: #191919;
+  font-family: "Adelle Sans", sans-serif;
+  color: #191919;
 }
 
 /* Headings */
 h1 {
-	font-size: 2.5rem;
-	margin: 0;
+  font-size: 2.5rem;
+  margin: 0;
 }
 
 h2 {
-	font-size: 2rem;
-	margin: 3rem 0 0 0;
+  font-size: 2rem;
+  margin: 3rem 0 0 0;
 }
 
 h3 {
-	font-size: 1.7rem;
-	margin: 1.5rem 0 0 0;
+  font-size: 1.7rem;
+  margin: 1.5rem 0 0 0;
 }
 
 h4 {
-	font-size: 1.4rem;
-	margin: 1.5rem 0 0 0;
+  font-size: 1.4rem;
+  margin: 1.5rem 0 0 0;
 }
 
 h5 {
-	font-size: 1.2rem;
-	margin: 1.5rem 0 0 0;
+  font-size: 1.2rem;
+  margin: 1.5rem 0 0 0;
 }
 
 h6 {
-	font-size: 1.1rem;
-	margin: 0.5rem 0 0 0;
+  font-size: 1.1rem;
+  margin: 0.5rem 0 0 0;
 }
 
 /* Body Text */
 p {
-	font-size: 1rem;
-	font-weight: 300;
-	line-height: 1.3;
-	margin: 1rem 0 1rem 0;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.3;
+  margin: 1rem 0 1rem 0;
 }
 
 /* Links */
 a {
-	color: #002D72;
-	text-decoration: none;
-		&:hover {
-		color:#4b9cd3;
-		}
+  color: #002D72;
+  text-decoration: none;
+    &:hover {
+    color:#4b9cd3;
+    }
 }
 
 p > a, cite > a, span > a {
-	color: #002D72;
-	text-decoration: none;
-		&:hover {
-		color:#4b9cd3;
-		}
+  color: #002D72;
+  text-decoration: none;
+    &:hover {
+    color:#4b9cd3;
+    }
 }
 
 /* Lists */
 ol, ul {
-	font-size: 0.9rem;
-	font-weight: 300;
-	margin: 0.5rem 0 0.5rem 2rem;
-	padding: 0;
+  font-size: 0.9rem;
+  font-weight: 300;
+  margin: 0.5rem 0 0.5rem 2rem;
+  padding: 0;
 }
 
 li {
-	font-size: 0.9rem;
-	line-height: 1.3;
-	margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  line-height: 1.3;
+  margin-bottom: 0.5rem;
 }
 
 /* Blockquote */
 blockquote {
-	margin: 0 0 1rem;
-	padding: .625rem 1.25rem;
-	border-left: none;
+  margin: 0 0 1rem;
+  padding: .625rem 1.25rem;
+  border-left: none;
 }
 
 blockquote p {
-	font-size: 0.9rem;
-	font-weight: 300;
-	font-style: italic;
+  font-size: 0.9rem;
+  font-weight: 300;
+  font-style: italic;
 }
 
 .mono-font {
-	font-family: "Lft-Etica-Mono", monospace;
-	font-weight: 400;
-	font-style: normal;
+  font-family: "Lft-Etica-Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .japanese-font {
-	font-family: "Noto Sans JP", sans-serif;
-	font-weight: 400;
-	font-style: normal;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .navbar {
-	background-color: #80000095;
-	color: #fffff8;
+  background-color: #80000095;
+  color: #fffff8;
 }
 
 .navbar-brand {
-	font-size: 1.44rem;
-	color: #fffff8;
-	white-space: nowrap;
+  font-size: 1.44rem;
+  color: #fffff8;
+  white-space: nowrap;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-	font-family: "Adelle Sans", sans-serif;
-	font-size: 1rem;
-	font-weight: 600;
-	padding-left: .6rem;
-	padding-right: .6rem;
+  font-family: "Adelle Sans", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  padding-left: .6rem;
+  padding-right: .6rem;
 }
 
 img {
-	vertical-align: middle;
+  vertical-align: middle;
 }
 
 .quarto-figure-center > figure > p, .quarto-figure-center > figure > div {
-	text-align: center;
+  text-align: center;
 }
 
 .panel-caption, .figure-caption, .subfigure-caption, .table-caption, figcaption, caption {
-	font-size: .8rem;
-	color: #191919;
-	text-align:inherit;
-	width: inherit;
+  font-size: .8rem;
+  color: #191919;
+  text-align:inherit;
+  width: inherit;
 }

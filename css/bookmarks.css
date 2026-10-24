@@ -1,38 +1,37 @@
 /* css styles */
 
 body {
-	color: #fffaf0;
-	margin: 1rem 2.5% 0 2.5%;
-	height: 100vh;
-	overflow: hidden;
-	background-image: url("../cover.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 50%;
+  color: #fffaf0;
+  margin: 1rem 2.5% 0 2.5%;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url("../cover.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
 }
 
 .bookmarks h1 {
-	color: #fffaf0;
+  color: #fffaf0;
 }
 
 .bookmarks h2 {
-	color: #fffaf0;
+  color: #fffaf0;
 }
 
 .bookmarks h3 {
-	color: #fffaf0;
-	font-family: "Adelle Sans", sans-serif;
+  color: #fffaf0;
+  font-family: "Adelle Sans", sans-serif;
 }
 
 .bookmarks p {
-	font-family: "Adelle Sans", sans-serif;
+  font-family: "Adelle Sans", sans-serif;
 }
 
 /* Links */
 .bookmarks a {
-	color: #fffff8;
-		&:hover {
-		color:#4b9cd3;
-		}
+  color: #fffff8;
+    &:hover {
+    color:#4b9cd3;
+    }
 }
-
