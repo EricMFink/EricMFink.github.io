@@ -489,7 +489,53 @@ li {
   margin: 0 0 .5rem 0;
 }
 
+/* Icon Links */
 
+.left-links {
+  display: block;
+  font-size: 1rem;
+  color: #fffff8;
+  text-decoration: none;
+  padding: .5rem 0 0 0;
+}
+
+.left-link {
+  font-size: 1.5rem;
+  margin: 0 2rem 0 0;
+  padding: 0;
+  border: none;
+}
+
+.left-link i {
+  font-size: 1.5rem;
+  color: #fffff8;
+    &:hover {
+    color:#4b9cd3;
+    }
+}
+
+.center-links {
+  display: block;
+  font-size: 1rem;
+  color: #fffff8;
+  text-decoration: none;
+  padding: .5rem 0 0 0;
+}
+
+.center-link {
+  font-size: 1.5rem;
+  margin: 0 1rem 0 1rem;
+  padding: 0;
+  border: none;
+}
+
+.center-link i {
+  font-size: 1.5rem;
+  color: #fffff8;
+    &:hover {
+    color:#4b9cd3;
+    }
+}
 /* Figures & Images */
 .quarto-figure {
   position: relative;

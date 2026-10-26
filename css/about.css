@@ -82,28 +82,7 @@ h1.title {
     }
 }
 
-.about-links {
-  display: block;
-  font-size: 1rem;
-  color: #fffff8;
-  text-decoration: none;
-  padding: .5em 0 0 0;
-}
 
-.about-link {
-  font-size: .8em;
-  padding: 0;
-  border: none;
-}
-
-.about-link i.bi {
-  font-size: 1.5rem;
-  color: #fffff8;
-  margin: 0 2rem 0 0;
-    &:hover {
-    color:#4b9cd3;
-    }
-}
 
 @media (min-width: 992px) {
  #title-block-header {

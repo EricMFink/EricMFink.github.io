@@ -16,6 +16,6 @@ format:
 
 ### Greensboro, North Carolina
 
-[[{{< bi envelope >}}](mailto:emfink@gmail.com)]{.work-link} [[{{< bi briefcase >}}](https://www.elon.edu/u/law/directory/profile/efink/)]{.work-link} [[{{< bi github >}}](https://github.com/EricMFink)]{.work-link} [[{{< bi journal-code >}}](https://codeberg.org/emfink)]{.work-link} [[{{< ai zotero >}}](https://www.zotero.org/emfink/library)]{.work-link} [[{{< ai google-scholar >}}](https://scholar.google.com/citations?user=TOHVdLgAAAAJ&hl=en)]{.work-link} [[{{< ai cv >}}](/Vita)]{.work-link}
+[[{{< bi envelope >}}](mailto:emfink@gmail.com)]{.center-link} [[{{< bi briefcase >}}](https://www.elon.edu/u/law/directory/profile/efink/)]{.center-link} [[{{< bi github >}}](https://github.com/EricMFink)]{.center-link} [[{{< bi journal-code >}}](https://codeberg.org/emfink)]{.center-link} [[{{< ai zotero >}}](https://www.zotero.org/emfink/library)]{.center-link} [[{{< ai google-scholar >}}](https://scholar.google.com/citations?user=TOHVdLgAAAAJ&hl=en)]{.center-link} [[{{< ai cv >}}](/Vita)]{.center-link}
 
 :::
