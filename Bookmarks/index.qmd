@@ -33,6 +33,28 @@ format:
 
 ::: {.g-col-4}
 
+### [Elon Law](https://www.elon.edu/u/law/)
+
+### [Outlook](https://outlook.office.com)
+
+### [Civil Procedure](https://www.emfink.net/CivPro)
+
+### [Professional Responsibility](https://www.emfink.net/PR)
+
+### [Employment Law](https://www.emfink.net/EmploymentLaw)
+
+### [Belk Library](https://www.elon.edu/u/library/)
+
+### [JSTOR](https://ezproxy.elon.edu/login?url=http://www.jstor.org/)
+
+### [Westlaw](https://lawschool.westlaw.com/)
+
+### [Google Scholar](https://scholar.google.com/)
+
+:::
+
+::: {.g-col-4}
+
 ### [GitHub](https://github.com/EricMFink)
 
 ### [Codeberg](https://codeberg.org/emfink)
@@ -48,30 +70,6 @@ format:
 ### [Calibre](http://golem-nas:8213/)
 
 ### [Zotero](https://www.zotero.org/emfink/library)
-
-### [Google Scholar](https://scholar.google.com/)
-
-:::
-
-::: {.g-col-4}
-
-### [Elon Law](https://www.elon.edu/u/law/)
-
-### [Outlook](https://outlook.office.com)
-
-### [Civil Procedure](https://www.emfink.net/CivPro)
-
-### [Professional Responsibility](https://www.emfink.net/PR)
-
-### [Employment Law](https://www.emfink.net/EmploymentLaw)
-
-### [Residency](https://www.emfink.net/Residency)
-
-### [Belk Library](https://www.elon.edu/u/library/)
-
-### [JSTOR](https://ezproxy.elon.edu/login?url=http://www.jstor.org/)
-
-### [Westlaw](https://lawschool.westlaw.com/)
 
 :::
 
