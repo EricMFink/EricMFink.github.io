@@ -71,6 +71,8 @@ format:
 
 ### [Zotero](https://www.zotero.org/emfink/library)
 
+### [Kanso](https://kansoeditor.netlify.app/)
+
 :::
 
 :::
