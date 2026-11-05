@@ -587,8 +587,13 @@ figure {
   margin-bottom: 0;
 }
 
+.lyrics {
+  width: 100%;
+}
+
 .lyrics p {
   font-size: .85em;  
+  width: 100%;
 }
 
 .player figure {
@@ -605,6 +610,24 @@ figure {
   text-align: center;
   margin: 0 auto 0 auto;
   padding: .5rem 0 .5rem 0;
+}
+
+.nocaption {
+  margin: 0 0 0 0;
+  padding: 0.5rem 0 0 0;
+}
+
+.nocaption  figure {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.nocaption figcaption, caption {
+  font-size: 0rem;
+  color: #fffff8;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  padding: 0 0 0 0;
 }
 
 audio {
